@@ -1,0 +1,7 @@
+C:\Users\marcela.llanos\source\repos\NumeralsToLiterals\NumeralsToLiterals\bin\Debug\NumeralsToLiterals.exe.config
+C:\Users\marcela.llanos\source\repos\NumeralsToLiterals\NumeralsToLiterals\bin\Debug\NumeralsToLiterals.exe
+C:\Users\marcela.llanos\source\repos\NumeralsToLiterals\NumeralsToLiterals\bin\Debug\NumeralsToLiterals.pdb
+C:\Users\marcela.llanos\source\repos\NumeralsToLiterals\NumeralsToLiterals\obj\Debug\NumeralsToLiterals.csprojAssemblyReference.cache
+C:\Users\marcela.llanos\source\repos\NumeralsToLiterals\NumeralsToLiterals\obj\Debug\NumeralsToLiterals.csproj.CoreCompileInputs.cache
+C:\Users\marcela.llanos\source\repos\NumeralsToLiterals\NumeralsToLiterals\obj\Debug\NumeralsToLiterals.exe
+C:\Users\marcela.llanos\source\repos\NumeralsToLiterals\NumeralsToLiterals\obj\Debug\NumeralsToLiterals.pdb
